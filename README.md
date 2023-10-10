@@ -19,6 +19,7 @@ Hi there, I'm Jewlius X! 👋<br>I'm a highly motivated individual with a deep p
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jewlias&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+<img src='https://raw.githubusercontent.com/jewlias/jewlias/output/snake.svg' alt='Snake animation'>
+[![](https://visitcount.itsvg.in/api?id=jewlias&icon=0&color=6)](https://visitcount.itsvg.in)
