@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Jewlius X! 👋<br>I'm a highly motivated individual with a deep passion for creating visually compelling web experiences. A fullstack web developer by profession, I'm dedicated to mastering various programming languages and technologies to craft visually stunning and dynamic websites.
+Hi there, I'm Julius! 👋<br>I'm a highly motivated individual with a deep passion for creating visually compelling web experiences. A fullstack web developer by profession, I'm dedicated to mastering various programming languages and technologies to craft visually stunning and dynamic websites.
 
 
 ## 🌐 Socials:
